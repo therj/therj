@@ -16,4 +16,4 @@
 
 **⚡ I care about value being generated for the end-use, everything else is just a tool to get there.⚡** 
 
-I do most things from Figma, webpack, sass, react, node/express, docker, provisioning VM, ssh, GitHub Actions, SSL, docker, python and everything else that comes up. 
+I do most things from Figma, webpack, sass, react, node/express, docker, VM, ssh, GitHub Actions, SSL, HAProxy/Nginx, Python and everything else that comes up. 
