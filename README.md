@@ -1,19 +1,32 @@
-### Hi there 👋
+### Hi, I'm Rabindra 👋
+---
 
-
-- 🔭 I’m currently working at [Monotype](https://www.monotype.com/).
-- 🏎️ I'm native to JavaScript and fluent in Python. I enjoy bashing out at times - [this tea counter is an example](https://github.com/therj/chiyaaa). 
-- 🌱 I'm currently diving into [Electron](https://www.electronjs.org/) to build cross-platform desktop apps.
-- 👯 I’m looking to collaborate on fun projects / open source / workshops.
-- 💬 Ask me about Software Engineering, Database, and System design.
-- 📫 How to reach me: [**Rabindra Joshi on LinkedIn**](https://www.linkedin.com/in/rabindrajoshi/).
 <!--
+- 👨‍💻 Senior Software Engineer @ **[Monotype](https://www.monotype.com/)**
+-->
+- ❤️ Native to JavaScript, and fluent in Python
+- 😎 Open to collaborating opportunities if the project sounds cool
+- ⚙️ Love working with `.js`, `.ts`, `.jsx`, `.html`, `.scss`, `.json`, `.yml`, `.py`
+- ⚒️ I enjoy bashing out at times - [this tea counter is an example](https://github.com/therj/chiyaaa)
+- 🌱 Learning more about and studying: **GraphQL, Vue, Unit Tests**
+- 💬 Ping me about Software Engineering, Database, and System design
+- 📫 Reach me asap [on LinkedIn](https://www.linkedin.com/in/rabindrajoshi/)
+- 💜 Interests: Economy, Personal Finance, Geopolitics.
+- 😄 Passionate about UX 🏎️
+
+
+<!--
+
 - 🤔 I’m looking for help with conducting workshops.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
+#### Find me around the web 🌎:
+- 💼 Connecting and sharing professional updates [Rabindra Joshi on LinkedIn](https://www.linkedin.com/in/rabindrajoshi/)
+- 🌐 Updating my personal website with posts on [Engineering and Design Blog](https://rjoshi.net/blog/)
 
-**⚡ I care about value being generated for the end-use, everything else is just a tool to get there.⚡** 
 
-I do most things from Figma, webpack, sass, react, node/express, docker, VM, ssh, GitHub Actions, SSL, HAProxy/Nginx, Python and everything else that comes up. 
+*⚡ 
+I do things from Figma, webpack, sass, react, node/express to docker, VM, ssh, GitHub Actions, SSL, HAProxy/Nginx, bash and some more. 
+⚡*
