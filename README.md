@@ -27,6 +27,5 @@
 - 🌐 Updating my personal website with posts on [Engineering and Design Blog](https://rjoshi.net/blog/)
 
 
-*⚡ 
-I do things from Figma, webpack, sass, react, node/express to docker, VM, ssh, GitHub Actions, SSL, HAProxy/Nginx, bash and some more. 
+*⚡ From Figma, webpack, sass, react, node/express to docker, VM, ssh, GitHub Actions, SSL, HAProxy/Nginx, bash and more. 
 ⚡*
