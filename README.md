@@ -1,31 +1,20 @@
 ### Hi, I'm Rabindra 👋
----
 
-<!--
-- 👨‍💻 Senior Software Engineer @ **[Monotype](https://www.monotype.com/)**
--->
-- ❤️ Native to JavaScript, and fluent in Python
-- 😎 Open to collaborating opportunities if the project sounds cool
-- ⚙️ Love working with `.js`, `.ts`, `.jsx`, `.html`, `.scss`, `.json`, `.yml`, `.py`
-- ⚒️ I enjoy bashing out at times - [this tea counter is an example](https://github.com/therj/chiyaaa)
-- 🌱 Learning more about and studying: **GraphQL, Vue, Unit Tests**
-- 💬 Ping me about Software Engineering, Database, and System design
-- 📫 Reach me asap [on LinkedIn](https://www.linkedin.com/in/rabindrajoshi/)
-- 💜 Interests: Economy, Personal Finance, Geopolitics.
-- 😄 Passionate about UX 🏎️
+Associate Lead Software Engineer at [Monotype](https://www.monotype.com/).
 
+Software engineer by profession, builder by instinct.
 
-<!--
+- 💻 Native to JavaScript, fluent in Python, and increasingly at home in TypeScript.
+- 🏗️ Interested in software architecture, backend systems, databases, and the reasoning behind engineering decisions.
+- 🛠️ Happy working anywhere from a Figma canvas to a Linux shell.
+- 🚀 Building [Limi](https://limi.rjoshi.net) and occasionally making something just because it should exist, like [Chiyaaa](https://github.com/therj/chiyaaa).
+- 🤖 Exploring AI-assisted development, coding agents, and better engineering workflows.
+- 💬 Always up for a conversation about software engineering, system design, AI, or why something was built the way it was.
+- 🌏 Outside tech: economics, personal finance, and geopolitics.
 
-- 🤔 I’m looking for help with conducting workshops.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Elsewhere on the internet
 
-#### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates [Rabindra Joshi on LinkedIn](https://www.linkedin.com/in/rabindrajoshi/)
-- 🌐 Updating my personal website with posts on [Engineering and Design Blog](https://rjoshi.net/blog/)
+- [LinkedIn](https://www.linkedin.com/in/rabindrajoshi/)
+- [Personal website & blog](https://rjoshi.net/)
 
-
-*⚡ From Figma, webpack, sass, react, node/express to docker, VM, ssh, GitHub Actions, SSL, HAProxy/Nginx, bash and more. 
-⚡*
+*From Figma, React, and Node.js to Docker, Linux, networking, and production deployments. I like understanding the whole system, not just the part I'm assigned.*
